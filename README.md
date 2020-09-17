@@ -24,4 +24,10 @@
 ```
 
 
+
+-   Import Postman Collection
+
+```
+-   $ https://www.getpostman.com/collections/de66e6d0e63d962e51be
+
 ```
